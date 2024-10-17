@@ -37,4 +37,15 @@ body {
     gap: 20px;
 }
 
+button {
+    background-color: #824caf; /* Verde */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0px 2px 5px rgb(241, 239, 239);
+    margin-top: 10px;
+    justify-content: center;
+}
 /* Estilos para as caixas dos jogos (adicione aqui) */
